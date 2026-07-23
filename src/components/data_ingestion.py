@@ -7,6 +7,7 @@ from src.components.data_transformation import DataTransformationConfig
 
 from src.components.model_trainer import ModelTrainerConfig
 from src.components.model_trainer import ModelTrainer
+from src.utils import save_object, evaluate_model
  
 import pandas as pd 
 
